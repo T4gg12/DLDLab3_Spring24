@@ -16,6 +16,7 @@ R0
 R0
 R0
 R0
+R0
 !s11f vlog 2021.3 2021.07, Jul 13 2021
 13
 !s112 1.1
@@ -36,10 +37,10 @@ n@_opt
 Z6 OL;O;2021.3;73
 R1
 T_opt1
-!s110 1711577895
-Vo5LjmJ>`NEPa]adVkFX4d1
+!s110 1711658188
+VoeVk;G;gENi7RTee:TgR50
 R2
-=1-ac198e13c2ed-66049b26-269-bd8
+=1-7404f1865349-6605d4cb-1ae-12f8
 R3
 R4
 R5
@@ -47,50 +48,50 @@ n@_opt1
 R6
 vFSM
 Z7 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
-Z8 !s110 1711577893
+Z8 !s110 1711658186
 !i10b 1
 !s100 ;I2z^D7UE_[CQ7`Y;HR;E3
 I_iV:HD4Q9TgWN?@G>Qi9E1
 S1
-R1
-w1711577355
+Z9 dC:/Users/junio/OneDrive/Documents/GitHub/DLDLab3_Spring24/Lab3/SV
+w1711658151
 8fsm.sv
 Ffsm.sv
 !i122 0
 L0 1 70
-Z9 VDg1SIo80bB@j0V0VzS_@n1
-Z10 OL;L;2021.3;73
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OL;L;2021.3;73
 r1
 !s85 0
 31
-Z11 !s108 1711577893.000000
-Z12 !s107 fsm_tb.sv|fsm.sv|
-Z13 !s90 -reportprogress|300|fsm.sv|fsm_tb.sv|
+Z12 !s108 1711658186.000000
+Z13 !s107 fsm_tb.sv|fsm.sv|
+Z14 !s90 -reportprogress|300|fsm.sv|fsm_tb.sv|
 !i113 0
-Z14 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z15 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
 R5
 n@f@s@m
 vstimulus
 R7
 R8
 !i10b 1
-!s100 BWY<n2Cc>gHnI>VmSmMRT1
-IkejM_DVHS?@gK80`JD7?60
+!s100 >k;mDlgG;?QZDH`973oiZ3
+IQoN:hil:X<M`AS@z:B0Rm3
 S1
-R1
-w1711577858
+R9
+w1711658149
 8fsm_tb.sv
 Ffsm_tb.sv
 !i122 0
-L0 2 47
-R9
+L0 2 66
 R10
+R11
 r1
 !s85 0
 31
-R11
 R12
 R13
-!i113 0
 R14
+!i113 0
+R15
 R5
