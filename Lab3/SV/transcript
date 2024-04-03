@@ -17,6 +17,7 @@
 # Errors: 0, Warnings: 1
 # Model Technology ModelSim SE-64 vlog 2021.3 Compiler 2021.07 Jul 13 2021
 # Start time: 15:02:27 on Apr 03,2024
+# Start time: 15:12:11 on Apr 03,2024
 # vlog -reportprogress 300 fsm.sv fsm_tb.sv 
 # -- Compiling module FSM
 # -- Compiling module stimulus

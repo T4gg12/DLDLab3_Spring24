@@ -5,6 +5,7 @@ module stimulus ();
    logic  l;
    logic  r;
    logic  reset;
+  
    
    logic[5:0]  y;
    
