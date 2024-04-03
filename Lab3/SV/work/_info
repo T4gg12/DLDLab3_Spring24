@@ -19,120 +19,14 @@ R0
 R0
 R0
 R0
-<<<<<<< HEAD
-=======
-R0
->>>>>>> de6cf797922ed8aea9c8826f84a9f8f106cad379
-!s11f vlog 2021.3 2021.07, Jul 13 2021
-13
-!s112 1.1
-!i10d 8192
-!i10e 25
-!i10f 100
-cModel Technology
-Z1 dC:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV
 T_opt
 !s110 1710729763
 V<Ygi>?Bja]NhVjKiYM;YF1
-Z2 04 8 4 work stimulus fast 0
+Z1 04 8 4 work stimulus fast 0
 =1-ac198e13c2ed-65f7aa20-322-5660
-Z3 !s124 OEM100
-Z4 o-quiet -auto_acc_if_foreign -work work +acc
-Z5 tCvgOpt 0
+Z2 !s124 OEM100
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 tCvgOpt 0
 n@_opt
-Z6 OL;O;2021.3;73
-R1
-T_opt1
-<<<<<<< HEAD
-!s110 1712174550
-V0I4PeLM>d6VL_j[djYE411
-R2
-=1-ac198e13c2ed-660db5d5-204-6184
-=======
-!s110 1712175134
-VJ`W9YSlGb;aEalY[J28TY3
-R2
-=1-7404f1865349-660db81d-29d-5044
->>>>>>> de6cf797922ed8aea9c8826f84a9f8f106cad379
-R3
-R4
-R5
-n@_opt1
-R6
-vFSM
-Z7 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
-<<<<<<< HEAD
-Z8 !s110 1712174548
-=======
-Z8 !s110 1712175131
->>>>>>> de6cf797922ed8aea9c8826f84a9f8f106cad379
-!i10b 1
-!s100 4Zc?cSG8[_]z0kkfbA4T`1
-I[k5bk78kD:oZ4o[QBEjI=2
-S1
-<<<<<<< HEAD
-R1
-w1711662154
-=======
-Z9 dC:/Users/junio/OneDrive/Documents/GitHub/DLDLab3_Spring24/Lab3/SV
-w1711658151
->>>>>>> de6cf797922ed8aea9c8826f84a9f8f106cad379
-8fsm.sv
-Ffsm.sv
-!i122 0
-L0 1 70
-Z10 VDg1SIo80bB@j0V0VzS_@n1
-Z11 OL;L;2021.3;73
-r1
-!s85 0
-31
-<<<<<<< HEAD
-Z11 !s108 1712174547.000000
-Z12 !s107 fsm_tb.sv|fsm.sv|
-Z13 !s90 -reportprogress|300|fsm.sv|fsm_tb.sv|
-=======
-Z12 !s108 1712175131.000000
-Z13 !s107 fsm_tb.sv|fsm.sv|
-Z14 !s90 -reportprogress|300|fsm.sv|fsm_tb.sv|
->>>>>>> de6cf797922ed8aea9c8826f84a9f8f106cad379
-!i113 0
-Z15 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
-R5
-n@f@s@m
-vstimulus
-R7
-R8
-!i10b 1
-<<<<<<< HEAD
-!s100 HG5RKe=GB1ondYAPjWVlm0
-I0PQAe[[nnkj;3S8@4kWGf0
-S1
-R1
-w1712174383
-8fsm_tb.sv
-Ffsm_tb.sv
-!i122 0
-L0 2 65
-R9
-=======
-!s100 >k;mDlgG;?QZDH`973oiZ3
-IQoN:hil:X<M`AS@z:B0Rm3
-S1
-R9
-w1711658149
-8fsm_tb.sv
-Ffsm_tb.sv
-!i122 0
-L0 2 66
->>>>>>> de6cf797922ed8aea9c8826f84a9f8f106cad379
-R10
-R11
-r1
-!s85 0
-31
-R12
-R13
-R14
-!i113 0
-R15
-R5
+Z5 OL;O;2021.3;73
+Z6 dC:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV
