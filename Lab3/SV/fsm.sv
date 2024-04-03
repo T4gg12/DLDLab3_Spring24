@@ -20,8 +20,8 @@ module FSM (clk, reset, l, r, y);
      case (state)
        S0: begin
 	  y <= 6'b000000;	  
-	  if (l) nextstate <= S1;
-    else if(r) nextstate <= S4;
+	  if (l && ~r) nextstate <= S1;
+    else if(r && ~l) nextstate <= S4;
     else if(l && r) nextstate <= S7;
 	  else   nextstate <= S0;
        end
