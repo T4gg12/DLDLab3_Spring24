@@ -16,17 +16,17 @@
 # ** Warning: (vlib-34) Library already exists at "work".
 # Errors: 0, Warnings: 1
 # Model Technology ModelSim SE-64 vlog 2021.3 Compiler 2021.07 Jul 13 2021
-# Start time: 14:36:16 on Apr 03,2024
+# Start time: 15:12:11 on Apr 03,2024
 # vlog -reportprogress 300 fsm.sv fsm_tb.sv 
 # -- Compiling module FSM
 # -- Compiling module stimulus
 # 
 # Top level modules:
 # 	stimulus
-# End time: 14:36:16 on Apr 03,2024, Elapsed time: 0:00:00
+# End time: 15:12:11 on Apr 03,2024, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vsim -voptargs="+acc" work.stimulus 
-# Start time: 14:36:18 on Apr 03,2024
+# Start time: 15:12:12 on Apr 03,2024
 # ** Note: (vsim-3812) Design is being optimized...
 # ** Note: (vopt-143) Recognized 1 FSM in module "FSM(fast)".
 # Loading sv_std.std
@@ -36,13 +36,13 @@
 # .main_pane.wave.interior.cs.body.pw.wf
 # ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
 #           File in use by: zanef  Hostname: ZANE  ProcessID: 22112
-#           Attempting to use alternate WLF file "./wlftb3k09x".
+#           Attempting to use alternate WLF file "./wlftd7vihc".
 # ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlftb3k09x
+#           Using alternate file: ./wlftd7vihc
 # ** UI-Msg: (vish-4014) No objects found matching '/stimulus/dut/a'.
 # Error in macro ./fsm.do line 45
 # ** UI-Msg: (vish-4014) No objects found matching '/stimulus/dut/a'.
 #     while executing
 # "add wave -noupdate -divider -height 32 "FSM""
-# End time: 14:36:34 on Apr 03,2024, Elapsed time: 0:00:16
+# End time: 15:12:28 on Apr 03,2024, Elapsed time: 0:00:16
 # Errors: 0, Warnings: 2
