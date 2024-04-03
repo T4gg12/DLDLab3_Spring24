@@ -1,0 +1,42 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.1.1 (win64) Build 3900603 Fri Jun 16 19:31:24 MDT 2023
+| Date         : Wed Apr  3 17:18:16 2024
+| Host         : CEAT-ENDV350-12 running 64-bit major release  (build 9200)
+| Command      : report_timing -file route_report_timing_0.rpt -rpx route_report_timing_0.rpx
+| Design       : top_demo
+| Device       : 7z020-clg484
+| Speed File   : -1  PRODUCTION 1.12 2019-11-22
+| Design State : Routed
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Timing Report
+
+Slack:                    inf
+  Source:                 sw[6]
+                            (input port)
+  Destination:            sseg_cb
+                            (output port)
+  Path Group:             (none)
+  Path Type:              Max at Slow Process Corner
+  Data Path Delay:        16.279ns  (logic 5.358ns (32.917%)  route 10.920ns (67.083%))
+  Logic Levels:           4  (IBUF=1 LUT6=2 OBUF=1)
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+    W10                                               0.000     0.000 r  sw[6] (IN)
+                         net (fo=0)                   0.000     0.000    sw[6]
+    W10                  IBUF (Prop_ibuf_I_O)         1.601     1.601 r  sw_IBUF[6]_inst/O
+                         net (fo=11, routed)          2.939     4.541    driver/sw_IBUF[6]
+    SLICE_X29Y48         LUT6 (Prop_lut6_I4_O)        0.124     4.665 r  driver/sseg_cb_OBUF_inst_i_2/O
+                         net (fo=1, routed)           0.877     5.541    driver/sseg_cb_OBUF_inst_i_2_n_0
+    SLICE_X29Y48         LUT6 (Prop_lut6_I0_O)        0.124     5.665 r  driver/sseg_cb_OBUF_inst_i_1/O
+                         net (fo=1, routed)           7.105    12.770    sseg_cb_OBUF
+    H17                  OBUF (Prop_obuf_I_O)         3.509    16.279 r  sseg_cb_OBUF_inst/O
+                         net (fo=0)                   0.000    16.279    sseg_cb
+    H17                                                               r  sseg_cb (OUT)
+  -------------------------------------------------------------------    -------------------
+
+
+
+
