@@ -11,5 +11,7 @@
 # //  is prohibited from disclosure under the Trade Secrets Act,
 # //  18 U.S.C. Section 1905.
 # //
-# run.do
-# invalid command name "run.do"
+# fsm.do
+# invalid command name "fsm.do"
+vsim -do run.do
+# No design specified

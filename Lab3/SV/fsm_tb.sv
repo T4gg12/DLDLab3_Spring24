@@ -5,7 +5,6 @@ module stimulus ();
    logic  l;
    logic  r;
    logic  reset;
-   //logic [7:0] inState;
    
    logic[5:0]  y;
    
@@ -13,7 +12,7 @@ module stimulus ();
    integer desc3;
    
    // Instantiate DUT
-   FSM dut (clk, reset, l, r, y/*inState*/);   
+   FSM dut (clk, reset, l, r, y);   
    
    // Setup the clock to toggle every 1 time units 
    initial 
