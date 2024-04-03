@@ -12,9 +12,55 @@
 # //  18 U.S.C. Section 1905.
 # //
 # do fsm.do
-# ** Warning: (vdel-134) Unable to remove locked optimized design "_opt".  Locker is zanef@ZANE.
-# ** Warning: (vlib-34) Library already exists at "work".
-# Errors: 0, Warnings: 1
-# Model Technology ModelSim SE-64 vlog 2021.3 Compiler 2021.07 Jul 13 2021
-# Start time: 15:32:50 on Apr 03,2024
-# vlog -reportprogress 300 fsm.sv fsm_tb.sv 
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "zanef@ZANE, pid = 20300
+# ". Lockfile is "C:/Users/zanef/OneDrive/Documents/GitHub/DLD-Lab3/DLDLab3_Spring24/Lab3/SV/work/_lock".
